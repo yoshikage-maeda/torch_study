@@ -1,0 +1,4 @@
+venv
+./src/__pycache__
+./src/chap1/__pycache__
+./src/chap1/data
